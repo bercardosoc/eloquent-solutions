@@ -1,10 +1,12 @@
+// 1)
+
 let sharpes = "#"
 for (let i = 1; i <= 7; i++) {
     sharpes += "#"
     console.log(sharpes)
 }
 
-//
+// 2)
 
 for(let i = 1; i <= 100; i++){
   if (i%3 == 0) {
@@ -19,7 +21,7 @@ for(let i = 1; i <= 100; i++){
   console.log(i)
 }
 
-  // 
+// 3) 
 
 let chess = ""
 for (let i = 1; i < 8; i++) {
